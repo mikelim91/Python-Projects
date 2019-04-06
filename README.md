@@ -1,22 +1,23 @@
 # Python Machine Learning Projects
   # Topics Covered So Far:
-  # - K-Nearest Neighbors (Univariate & multivariate)
-  # - Hyperparameter Optimization
-  # - Cross Validation
-  # - Linear\Logistic Regression Modeling
-  # - Feature Engineering
-  # - Gradient Descent
-  # - Overfitting
-  # - K-means Clustering
+
+- [x] K-Nearest Neighbors (Univariate & multivariate)
+- [x] Hyperparameter Optimization
+- [x] Cross Validation
+- [x] Linear\Logistic Regression Modeling
+- [x] Feature Engineering
+- [x] Gradient Descent
+- [x] Overfitting
+- [x] K-means Clustering
 
 
 
 # Topics to be completed:
-  # - Decision Trees
-  # - Random Forests
-  # - Neural Networks
-  # - Nonlinear Activation
-  # - Hidden Layers
-  # - Native Bayes for Sentiment Analysis
-  # - Natural Language Processing
-  # - Spark SQL
+- [ ] Decision Trees
+- [ ] Random Forests
+- [ ] Neural Networks
+- [ ] Nonlinear Activation
+- [ ] Hidden Layers
+- [ ] Native Bayes for Sentiment Analysis
+- [ ] Natural Language Processing
+- [ ] Spark SQL
