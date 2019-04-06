@@ -1,5 +1,5 @@
 # Python Machine Learning Projects
-  # Topics Covered So Far:
+## Topics Covered So Far:
 
 - [x] K-Nearest Neighbors (Univariate & multivariate)
 - [x] Hyperparameter Optimization
@@ -12,7 +12,7 @@
 
 
 
-# Topics to be completed:
+## Topics to be Completed:
 - [ ] Decision Trees
 - [ ] Random Forests
 - [ ] Neural Networks
